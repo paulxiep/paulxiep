@@ -1,4 +1,6 @@
-**For portfolio please go to [portfolio](https://github.com/paulxiep/portfolio)**
+**New website, projects, demos, and blogs at [paulxie.com](paulxie.com)**
+
+Old portfolio ai [portfolio](https://github.com/paulxiep/portfolio)
 
 <!--
 **paulxiep/paulxiep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

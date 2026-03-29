@@ -1,4 +1,4 @@
-**New website, projects, demos, and blogs at [paulxie.com](paulxie.com)**
+**New website, projects, demos, and blogs at [paulxie.com](https://paulxie.com)**
 
 Old portfolio at [portfolio](https://github.com/paulxiep/portfolio)
 

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="118" viewBox="0 0 480 118" role="img" aria-label="Languages">
+<style>.t{font:600 14px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#24292f}.l{font:12px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#57606a}</style>
+<rect width="480" height="118" rx="6" ry="6" fill="#ffffff" stroke="#d0d7de"/>
+<text x="16" y="26" class="t">Languages</text>
+<clipPath id="b"><rect x="16" y="42" width="448" height="8" rx="4" ry="4"/></clipPath>
+<g clip-path="url(#b)">
+<rect x="16.00" y="42" width="270.00" height="8" fill="#dea584"/>
+<rect x="286.00" y="42" width="59.51" height="8" fill="#3572A5"/>
+<rect x="345.51" y="42" width="48.91" height="8" fill="#DC322F"/>
+<rect x="394.42" y="42" width="34.59" height="8" fill="#3178c6"/>
+<rect x="429.01" y="42" width="20.70" height="8" fill="#00ADD8"/>
+<rect x="449.71" y="42" width="5.09" height="8" fill="#8b949e"/>
+<rect x="454.81" y="42" width="9.19" height="8" fill="#8b949e"/>
+</g>
+<circle cx="21" cy="66" r="5" fill="#dea584"/>
+<text x="32" y="70" class="l">Rust  60.3%</text>
+<circle cx="129.8" cy="66" r="5" fill="#3572A5"/>
+<text x="140.8" y="70" class="l">Python  13.3%</text>
+<circle cx="252.2" cy="66" r="5" fill="#DC322F"/>
+<text x="263.2" y="70" class="l">Scala  10.9%</text>
+<circle cx="21" cy="88" r="5" fill="#3178c6"/>
+<text x="32" y="92" class="l">TypeScript  7.7%</text>
+<circle cx="163.8" cy="88" r="5" fill="#00ADD8"/>
+<text x="174.8" y="92" class="l">Go  4.6%</text>
+<circle cx="252.20000000000002" cy="88" r="5" fill="#8b949e"/>
+<text x="263.20000000000005" y="92" class="l">WGSL  1.1%</text>
+<circle cx="354.20000000000005" cy="88" r="5" fill="#8b949e"/>
+<text x="365.20000000000005" y="92" class="l">Other  2.1%</text>
+</svg>

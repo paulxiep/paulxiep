@@ -4,27 +4,27 @@
 <text x="16" y="26" class="t">Languages</text>
 <clipPath id="b"><rect x="16" y="42" width="448" height="8" rx="4" ry="4"/></clipPath>
 <g clip-path="url(#b)">
-<rect x="16.00" y="42" width="285.70" height="8" fill="#dea584"/>
-<rect x="301.70" y="42" width="49.00" height="8" fill="#3572A5"/>
-<rect x="350.70" y="42" width="45.65" height="8" fill="#DC322F"/>
-<rect x="396.34" y="42" width="33.58" height="8" fill="#3178c6"/>
-<rect x="429.93" y="42" width="14.81" height="8" fill="#00ADD8"/>
-<rect x="444.73" y="42" width="7.06" height="8" fill="#f1e05a"/>
-<rect x="451.79" y="42" width="4.13" height="8" fill="#1a5e9a"/>
-<rect x="455.92" y="42" width="8.08" height="8" fill="#8b949e"/>
+<rect x="16.00" y="42" width="272.70" height="8" fill="#dea584"/>
+<rect x="288.70" y="42" width="55.41" height="8" fill="#DC322F"/>
+<rect x="344.11" y="42" width="46.71" height="8" fill="#3572A5"/>
+<rect x="390.82" y="42" width="39.30" height="8" fill="#3178c6"/>
+<rect x="430.12" y="42" width="14.11" height="8" fill="#00ADD8"/>
+<rect x="444.24" y="42" width="7.63" height="8" fill="#f1e05a"/>
+<rect x="451.87" y="42" width="3.94" height="8" fill="#1a5e9a"/>
+<rect x="455.81" y="42" width="8.19" height="8" fill="#8b949e"/>
 </g>
 <circle cx="21" cy="66" r="5" fill="#dea584"/>
-<text x="32" y="70" class="l">Rust  63.8%</text>
-<circle cx="129.8" cy="66" r="5" fill="#3572A5"/>
-<text x="140.8" y="70" class="l">Python  10.9%</text>
-<circle cx="252.2" cy="66" r="5" fill="#DC322F"/>
-<text x="263.2" y="70" class="l">Scala  10.2%</text>
+<text x="32" y="70" class="l">Rust  60.9%</text>
+<circle cx="129.8" cy="66" r="5" fill="#DC322F"/>
+<text x="140.8" y="70" class="l">Scala  12.4%</text>
+<circle cx="245.39999999999998" cy="66" r="5" fill="#3572A5"/>
+<text x="256.4" y="70" class="l">Python  10.4%</text>
 <circle cx="21" cy="88" r="5" fill="#3178c6"/>
-<text x="32" y="92" class="l">TypeScript  7.5%</text>
+<text x="32" y="92" class="l">TypeScript  8.8%</text>
 <circle cx="163.8" cy="88" r="5" fill="#00ADD8"/>
-<text x="174.8" y="92" class="l">Go  3.3%</text>
+<text x="174.8" y="92" class="l">Go  3.2%</text>
 <circle cx="252.20000000000002" cy="88" r="5" fill="#f1e05a"/>
-<text x="263.20000000000005" y="92" class="l">JavaScript  1.6%</text>
+<text x="263.20000000000005" y="92" class="l">JavaScript  1.7%</text>
 <circle cx="21" cy="110" r="5" fill="#1a5e9a"/>
 <text x="32" y="114" class="l">WGSL  0.9%</text>
 <circle cx="123.0" cy="110" r="5" fill="#8b949e"/>

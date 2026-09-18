@@ -4,23 +4,23 @@
 <text x="16" y="26" class="t">Languages</text>
 <clipPath id="b"><rect x="16" y="42" width="448" height="8" rx="4" ry="4"/></clipPath>
 <g clip-path="url(#b)">
-<rect x="16.00" y="42" width="256.75" height="8" fill="#dea584"/>
-<rect x="272.75" y="42" width="67.06" height="8" fill="#DC322F"/>
-<rect x="339.81" y="42" width="45.55" height="8" fill="#3178c6"/>
-<rect x="385.36" y="42" width="37.58" height="8" fill="#3572A5"/>
-<rect x="422.95" y="42" width="22.16" height="8" fill="#00ADD8"/>
-<rect x="445.11" y="42" width="8.44" height="8" fill="#f1e05a"/>
-<rect x="453.55" y="42" width="3.10" height="8" fill="#1a5e9a"/>
-<rect x="456.64" y="42" width="7.36" height="8" fill="#8b949e"/>
+<rect x="16.00" y="42" width="256.35" height="8" fill="#dea584"/>
+<rect x="272.35" y="42" width="65.97" height="8" fill="#DC322F"/>
+<rect x="338.32" y="42" width="48.30" height="8" fill="#3178c6"/>
+<rect x="386.62" y="42" width="36.97" height="8" fill="#3572A5"/>
+<rect x="423.59" y="42" width="21.80" height="8" fill="#00ADD8"/>
+<rect x="445.40" y="42" width="8.30" height="8" fill="#f1e05a"/>
+<rect x="453.70" y="42" width="3.05" height="8" fill="#1a5e9a"/>
+<rect x="456.74" y="42" width="7.26" height="8" fill="#8b949e"/>
 </g>
 <circle cx="21" cy="66" r="5" fill="#dea584"/>
-<text x="32" y="70" class="l">Rust  57.3%</text>
+<text x="32" y="70" class="l">Rust  57.2%</text>
 <circle cx="129.8" cy="66" r="5" fill="#DC322F"/>
-<text x="140.8" y="70" class="l">Scala  15.0%</text>
+<text x="140.8" y="70" class="l">Scala  14.7%</text>
 <circle cx="245.39999999999998" cy="66" r="5" fill="#3178c6"/>
-<text x="256.4" y="70" class="l">TypeScript  10.2%</text>
+<text x="256.4" y="70" class="l">TypeScript  10.8%</text>
 <circle cx="21" cy="88" r="5" fill="#3572A5"/>
-<text x="32" y="92" class="l">Python  8.4%</text>
+<text x="32" y="92" class="l">Python  8.3%</text>
 <circle cx="136.6" cy="88" r="5" fill="#00ADD8"/>
 <text x="147.6" y="92" class="l">Go  4.9%</text>
 <circle cx="225.0" cy="88" r="5" fill="#f1e05a"/>

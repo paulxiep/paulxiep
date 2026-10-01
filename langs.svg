@@ -4,25 +4,25 @@
 <text x="16" y="26" class="t">Languages</text>
 <clipPath id="b"><rect x="16" y="42" width="448" height="8" rx="4" ry="4"/></clipPath>
 <g clip-path="url(#b)">
-<rect x="16.00" y="42" width="251.35" height="8" fill="#dea584"/>
-<rect x="267.35" y="42" width="73.85" height="8" fill="#3178c6"/>
-<rect x="341.21" y="42" width="52.00" height="8" fill="#DC322F"/>
-<rect x="393.21" y="42" width="30.17" height="8" fill="#3572A5"/>
-<rect x="423.38" y="42" width="25.10" height="8" fill="#00ADD8"/>
-<rect x="448.48" y="42" width="6.51" height="8" fill="#f1e05a"/>
-<rect x="454.99" y="42" width="2.40" height="8" fill="#1a5e9a"/>
-<rect x="457.40" y="42" width="6.60" height="8" fill="#8b949e"/>
+<rect x="16.00" y="42" width="246.55" height="8" fill="#dea584"/>
+<rect x="262.55" y="42" width="72.81" height="8" fill="#3178c6"/>
+<rect x="335.36" y="42" width="51.01" height="8" fill="#DC322F"/>
+<rect x="386.37" y="42" width="32.29" height="8" fill="#00ADD8"/>
+<rect x="418.66" y="42" width="29.71" height="8" fill="#3572A5"/>
+<rect x="448.37" y="42" width="6.50" height="8" fill="#f1e05a"/>
+<rect x="454.88" y="42" width="2.36" height="8" fill="#1a5e9a"/>
+<rect x="457.23" y="42" width="6.77" height="8" fill="#8b949e"/>
 </g>
 <circle cx="21" cy="66" r="5" fill="#dea584"/>
-<text x="32" y="70" class="l">Rust  56.1%</text>
+<text x="32" y="70" class="l">Rust  55.0%</text>
 <circle cx="129.8" cy="66" r="5" fill="#3178c6"/>
-<text x="140.8" y="70" class="l">TypeScript  16.5%</text>
+<text x="140.8" y="70" class="l">TypeScript  16.3%</text>
 <circle cx="279.4" cy="66" r="5" fill="#DC322F"/>
-<text x="290.4" y="70" class="l">Scala  11.6%</text>
-<circle cx="21" cy="88" r="5" fill="#3572A5"/>
-<text x="32" y="92" class="l">Python  6.7%</text>
-<circle cx="136.6" cy="88" r="5" fill="#00ADD8"/>
-<text x="147.6" y="92" class="l">Go  5.6%</text>
+<text x="290.4" y="70" class="l">Scala  11.4%</text>
+<circle cx="21" cy="88" r="5" fill="#00ADD8"/>
+<text x="32" y="92" class="l">Go  7.2%</text>
+<circle cx="109.4" cy="88" r="5" fill="#3572A5"/>
+<text x="120.4" y="92" class="l">Python  6.6%</text>
 <circle cx="225.0" cy="88" r="5" fill="#f1e05a"/>
 <text x="236.0" y="92" class="l">JavaScript  1.5%</text>
 <circle cx="21" cy="110" r="5" fill="#1a5e9a"/>

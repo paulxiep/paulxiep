@@ -4,26 +4,26 @@
 <text x="16" y="26" class="t">Languages</text>
 <clipPath id="b"><rect x="16" y="42" width="448" height="8" rx="4" ry="4"/></clipPath>
 <g clip-path="url(#b)">
-<rect x="16.00" y="42" width="253.59" height="8" fill="#dea584"/>
-<rect x="269.59" y="42" width="86.56" height="8" fill="#3178c6"/>
-<rect x="356.14" y="42" width="39.38" height="8" fill="#DC322F"/>
-<rect x="395.53" y="42" width="30.52" height="8" fill="#00ADD8"/>
-<rect x="426.05" y="42" width="26.18" height="8" fill="#3572A5"/>
-<rect x="452.23" y="42" width="2.71" height="8" fill="#012456"/>
-<rect x="454.95" y="42" width="9.05" height="8" fill="#8b949e"/>
+<rect x="16.00" y="42" width="244.24" height="8" fill="#dea584"/>
+<rect x="260.24" y="42" width="102.08" height="8" fill="#3178c6"/>
+<rect x="362.31" y="42" width="36.16" height="8" fill="#DC322F"/>
+<rect x="398.48" y="42" width="28.03" height="8" fill="#00ADD8"/>
+<rect x="426.51" y="42" width="26.65" height="8" fill="#3572A5"/>
+<rect x="453.16" y="42" width="3.17" height="8" fill="#012456"/>
+<rect x="456.34" y="42" width="7.66" height="8" fill="#8b949e"/>
 </g>
 <circle cx="21" cy="66" r="5" fill="#dea584"/>
-<text x="32" y="70" class="l">Rust  56.6%</text>
+<text x="32" y="70" class="l">Rust  54.5%</text>
 <circle cx="129.8" cy="66" r="5" fill="#3178c6"/>
-<text x="140.8" y="70" class="l">TypeScript  19.3%</text>
+<text x="140.8" y="70" class="l">TypeScript  22.8%</text>
 <circle cx="279.4" cy="66" r="5" fill="#DC322F"/>
-<text x="290.4" y="70" class="l">Scala  8.8%</text>
+<text x="290.4" y="70" class="l">Scala  8.1%</text>
 <circle cx="21" cy="88" r="5" fill="#00ADD8"/>
-<text x="32" y="92" class="l">Go  6.8%</text>
+<text x="32" y="92" class="l">Go  6.3%</text>
 <circle cx="109.4" cy="88" r="5" fill="#3572A5"/>
-<text x="120.4" y="92" class="l">Python  5.8%</text>
+<text x="120.4" y="92" class="l">Python  5.9%</text>
 <circle cx="225.0" cy="88" r="5" fill="#012456"/>
-<text x="236.0" y="92" class="l">PowerShell  0.6%</text>
+<text x="236.0" y="92" class="l">PowerShell  0.7%</text>
 <circle cx="21" cy="110" r="5" fill="#8b949e"/>
-<text x="32" y="114" class="l">Other  2.0%</text>
+<text x="32" y="114" class="l">Other  1.7%</text>
 </svg>
